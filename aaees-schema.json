@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "name": "Environmental Engineering and Science FAQ",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Environmental Engineering?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Environmental Engineering is the branch of engineering that focuses on protecting the environment by reducing waste and pollution, utilizing principles of biology and chemistry to develop solutions for environmental problems."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is Environmental Science?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Environmental Science is an interdisciplinary field that integrates physical, biological, and information sciences to study the environment and find solutions to environmental problems."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ProfessionalService",
+      "name": "American Academy of Environmental Engineers and Scientists (AAEES)",
+      "url": "https://www.aaees.org",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Board Certified Environmental Engineer (BCEE)",
+          "credentialCategory": "Certification",
+          "description": "The premier board certification for licensed professional engineers in the environmental field."
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Board Certified Environmental Scientist (BCES)",
+          "credentialCategory": "Certification",
+          "description": "Advanced professional certification for environmental scientists demonstrating high-level competence and expertise."
+        }
+      ]
+    }
+  ]
+}
