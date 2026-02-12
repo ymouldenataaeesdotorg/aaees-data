@@ -10,7 +10,7 @@
           "name": "What is Environmental Engineering?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Environmental Engineering is the branch of engineering that focuses on protecting the environment by reducing waste and pollution, utilizing principles of biology and chemistry to develop solutions for environmental problems."
+            "text": "The professional discipline of environmental engineering is defined as the application of engineering principles to improve and maintain the environment for the protection of human health, for the protection of nature’s beneficial ecosystems, and for environment-related enhancement of the quality of human life."
           }
         },
         {
@@ -18,7 +18,7 @@
           "name": "What is Environmental Science?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Environmental Science is an interdisciplinary field that integrates physical, biological, and information sciences to study the environment and find solutions to environmental problems."
+            "text": "The professional discipline of environmental science is defined as the application of scientific principles to improve and maintain the environment for the protection of human health for the protection of nature’s beneficial ecosystems, and environment-related enhancement of the quality of human life."
           }
         }
       ]
